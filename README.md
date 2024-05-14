@@ -119,6 +119,7 @@ mv full.sh mail.sh /var/log/nginx
 
 [root@bashx cron.hourly]# ./0mail.cron
 Lockfile active, no new runs.
+```
 ![10](https://github.com/alexxeykz/bashx/assets/163057177/54cbc7ab-c1af-45c1-bf00-0da261603d5b)
 [UpВременной диапазон:
 [14/May/2024:04:12:10
@@ -180,6 +181,6 @@ May 14 22:01:57 2024
 ------------------------------------------------------
 all
 loading unknown (2)…]()
-
+```
 
 
