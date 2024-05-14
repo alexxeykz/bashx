@@ -119,6 +119,7 @@ mv full.sh mail.sh /var/log/nginx
 
 [root@bashx cron.hourly]# ./0mail.cron
 Lockfile active, no new runs.
+10.png
 
 
 
